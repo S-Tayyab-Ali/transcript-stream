@@ -1,0 +1,49 @@
+00:07 Got it. Yep, yep, completely make sense. And then, shall you also mention there's like some system or tool that you're using called SERP, S-E-R-P.
+00:17 Could you tell us a little bit more about it, what is it, is it built in house, how does it work, etc.
+01:26 Okay. Perfect. Awesome. Perfect. Yeah, yeah, got it. Great. I think so. I think as as next steps we would love to like see what your workflow is and then also as we walk through it.
+02:02 If anyone could like share their screen and walk us through what the current workflow looks like, in Smart ERP how do you get the requests, how are they fulfilled, you spoke about Round Robin, how are they assigned to different CSMs or CSAs and like how does it go from start to finish and as you walk
+02:22 through it would love to hear some of your recommendations of where a lot of time is spent today in terms of handling these requests what are some of the blockers and then we can sort of talk about how we can have AI solve some of them some of those so if if somebody can share their screen and walk us
+02:41 through the process that would be awesome awesome thanks and please feel free to ask me questions as well as we walk through this like like you know if you have any questions.
+03:45 I think we will move through it as we walk through the workforce if I have follow-up questions I can ask those as well.
+03:52 So walk me through like imagine like you're onboarding me and I don't know anything about the system and walk me through it okay this is the first step like if I am the CSM or USA, we could start with the CSM, like this is the first step, this is what you open every day, this is where you get all the
+04:11 client requests, so this is the next step and chronologically, like let's walk through it chronologically. So I will pause you in the middle just wherever I need clarity.
+05:17 So when you say some of these, some of the clients use the portal while others don't, what would you say is the percentage split between them number one and then number two for clients that don't use the portal do you have like I'm sure you manually input it within your system Yeah, there's just some
+05:34 clarity there. Got it. Perfect. And Thank God it's perfect. Perfect, when you're going through this, what are you looking for and what happens when something is missing, do you send them an email or how does that work?
+09:53 Sorry could you repeat that the last part like what was not enough on the material type? So, when you say clear enough, how clear does it need to be, does it need to specify the exact modem and the model number, or does it just be?
+10:35 And you still wouldn't know what it is until it comes in, and once it comes in that's when and you'll target to the exact number, is that correct?
+11:54 Perfect. Got it. Can we take a step back and just walk through the step by step so you receive the load, you review it.
+13:08 And then there was a submit screen that you would. Yeah, let's see if you can open one of the requests.
+14:24 Let's see quick question. How do you, is there some sort of, do you just know this? Is there some sort of form of where to send it based on okay if it's x do y or do you just happen to know?
+16:04 I think I'll do it. Perfect. Okay, that's super helpful. We, yeah, we might, of course, the skull we might send you an email if we need that information.
+17:46 But I think for the first version, it should be file we can assume. Use the metadata. Let's see, just to be mindful of time, I know we have 30 minutes.
+17:57 We'd love to walk through the entire thing. But wherever you feel like Okay, this is where most of the time and monotonous tasks is you just highlight that so that we can dive a little bit more deeper into it.
+19:13 So, okay, perfect. Before we click submit, yeah, could you just, so on the, like roughly how much time is spent a form like this screen in particular.
+19:55 Perfect and when you say there's back and forth are you like texting the client or emailing them if there's something missing or how does that work?
+21:16 So, yeah, make sense. So, as you're going outward, like, are you like calling these facilities or then still like sending them an email ask them if they can take the material?
+22:13 And once you have the right facility, you will use it all like double check with them call them, email them just to confirm they can take them to you.
+22:55 Yeah. Yeah. Yeah. Yeah. And that's over email phone. I didn't catch that part. Got it. Yes. Okay, that's, yes, Christina, sorry.
+26:14 Yep. Yeah, I love that, so what do you think it's helpful if we can have some sort of agent that can do this coordination?
+27:05 Okay, I think the way I'm thinking about it and tell me if this is the correct understanding and helpful is that we have like an AI agent sitting on top of it and if there's any like confusion it takes the first pass and sends out an email and says oh is this two line items for I don't know the exact
+27:23 questions but asks those questions from the facility that is spawned and basically does this back and forth with them to get all the information that you need.
+27:32 Once that's done you might still be thinking there is an error or maybe the AI assumed that it was x when it wasn't x so it creates an audit trail of the emails so it can show you where it's getting the information from and how it's verified it so you can always click on something and it will take you
+27:49 that to that particular email in a sidebar and show you the exact amount this had six line items this is okay it's six line items because they start six line items over here inside an email in a PDF or inside an email as text or this is where I'm getting x from from it can do all of that back and forth
+28:06 and give you the final result. But you still have to review it to make sure that the AI is not making mistakes.
+28:12 So there's an audit trailer attached to it. So this is what I'm thinking right now. Yeah, yeah. Okay. Yeah, that makes complete sense.
+29:39 I would love for us to actually view an example like that as well, but let's do that chronologically when it comes up.
+29:45 So after this tab like how far is that taxi? Yeah, perfect. Yeah, and in the end, let's see, if we have time, we're going to come back to the farm and just get your thoughts on what you fill out and how you're where you're getting that information from.
+30:51 if we have time, if not we will send it in an email and you can just respond to it. So, sorry, I think I missed one part, which is how do you find out if the devices which is our locked.
+34:47 Oh God, so the facility does all of this in sensitivity. Perfect. Okay. Perfect, make sense. What happens next after the devices at the facility have been unlocked, what's the payment process and all of that stuff.
+35:56 Just walk me through the next steps chronologically. The question on the client helping you unlock it, they work with the facility directly To help you unlock it In all these cases, the client is the one that's delivering, giving the load that you to the facility.
+38:46 Do you also take care of clients that now need these devices and the other side of the entire market list?
+38:53 Yes. Yes. Selling these laptops to somebody else. Awesome. So, for this part, like, let's see, this is where your work ends, like, there's nothing off this step.
+40:35 Okay. Perfect. make sense anything else I think there's like just for my clarity and just to for me to understand the business better like what happens to all these laptops once you have received them and they are unlocked I'm sure you resale them as all right and how does the reselling part work like
+41:30 that's you you take care of it or that's a completely different department. Okay, perfect. I know we have five minutes left.
+42:39 So out of this entire process, Christina, I see, and everyone else on the call, like, what do you think is if we could have you have AI help you is the most manual process from what I'm hearing is the back and forth between the facilities at different steps but would love to hear your thoughts as well
+43:02 . Sorry, what was that? Yeah, I think we did Christina, anything you would like to add? Okay, perfect. In the billing stuff, I think we did not go over billing.
+45:04 Next, you are on a different tab than the one you're sharing. Okay. I know we're out of time, but let's say I think this part might be helpful as a low hanging fruit.
+47:14 I know it came at the end, but just like a one-click verification where it just receives the invoice, what you have, and then imports the information that you need within the system probably would save you a ton of time.
+47:56 Yeah, no, I think it makes sense. I think as next step is what we're going to do is we're going to put together a document and share it with you of our understanding of the entire system based on this conversation that we've had.
+48:05 Any open questions that we have for you? If we need, we could do like a quick 30-minute jump on back for clarification if there are a lot of open questions.
+48:13 If not, then within two weeks, we will show you a demo of something which will be part of the original document.
+48:20 or forget this is what we're proposing of AES we can create improvements. No, I think we're going to go through this transcript of the call and then get back to you with the complete detailed document.
+48:54 I have time here, so I'm okay to go over. Chris, you have a comment? Okay. See you later. Bye.
